@@ -1,0 +1,1 @@
+v=spf1 include:spf.protection.outlook.com a:smtp.getmail.no a:bouvier.getmail.no a:lamora.getmail.no include:_spf.tripletex.no -all
